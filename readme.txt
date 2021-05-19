@@ -1,0 +1,1 @@
+perl converter.pl < sphere.stl > out.stl
